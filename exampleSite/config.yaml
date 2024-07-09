@@ -2,7 +2,7 @@ baseurl: https://example.com
 languageCode: en-us
 theme: hugo-theme-stack
 paginate: 5
-title: Coucou's blog
+title: GSH's blog
 
 languages:
     en:
